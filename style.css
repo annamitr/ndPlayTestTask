@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 12px;
+}
+
+th {
+    background: #D8EFFF;
+}
+
+input {
+    width: 300px;
+    height: 25px;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+}
+
+.searchBlock {
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+.empty {
+    text-align: center;
+    font-size: 20px;
+}
+
+.hide {
+    display: none;
+}
